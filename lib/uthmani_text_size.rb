@@ -12,7 +12,6 @@ class String
   # Example:
   #   >> "ٱلرَّحْمَٰنِ".uthmani_size
   #   => 6
-
   def uthmani_size
     split('').select { |letter| UTHMANI_CHARS.include?(letter) }.size
   end

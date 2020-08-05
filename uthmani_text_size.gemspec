@@ -6,10 +6,10 @@ Gem::Specification.new do |spec|
   spec.name          = "uthmani_text_size"
   spec.version       = UthmaniTextSize::VERSION
   spec.authors       = ["Abdullah Hashim"]
-  spec.email         = ["abdullah.slice.chop@gmail.com"]
+  spec.email         = ["abdul@hey.com"]
 
   spec.summary       = %q{Accurately counts the number of letters in a given Uthmani string.}
-  spec.homepage      = "https://github.com/imabusabah/uthmani_text_size"
+  spec.homepage      = "https://github.com/AbuMareBear/uthmani_text_size"
   spec.license       = "MIT"
 
   spec.metadata["homepage_uri"] = spec.homepage
